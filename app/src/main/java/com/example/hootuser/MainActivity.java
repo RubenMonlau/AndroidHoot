@@ -84,6 +84,8 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    //
+
     private void startUserActivity(String gameCode) {
         Intent intent = new Intent(this, UserActivity.class);
         intent.putExtra("gameCode", gameCode);
