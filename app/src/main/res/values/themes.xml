@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HootUser" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.HootUser" parent="Base.Theme.HootUser">
+        <!-- Primary colors -->
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorPrimary">@color/gradient2</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary colors -->
+        <item name="colorSecondary">@color/dark_purple</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+
+        <!-- Background colors -->
+        <item name="android:windowBackground">@color/dark_purple</item>
+        <item name="android:navigationBarColor">@color/gradient1</item> // Bar from below
+        <item name="android:statusBarColor">@color/gradient2</item> // Up bar
+    </style>
+
+</resources>

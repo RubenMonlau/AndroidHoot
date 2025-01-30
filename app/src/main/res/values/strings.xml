@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">HootUser</string>
+
+    <string-array name="emoji_list">
+        <!-- 🌟 Objetos -->
+        <item>📱</item> <item>💻</item> <item>🖥️</item> <item>⌨️</item> <item>🖱️</item> <item>🖨️</item> <item>📷</item> <item>🎥</item>
+        <item>📞</item> <item>📡</item> <item>📺</item> <item>📻</item> <item>⏰</item> <item>⏳</item> <item>💡</item> <item>🔦</item>
+        <item>🔋</item> <item>🔌</item> <item>🗄️</item> <item>🗑️</item> <item>📂</item> <item>📖</item> <item>📝</item> <item>✏️</item>
+
+        <!-- 🦄 Animales -->
+        <item>🐶</item> <item>🐱</item> <item>🐭</item> <item>🐹</item> <item>🐰</item> <item>🦊</item> <item>🐻</item> <item>🐼</item>
+        <item>🐨</item> <item>🐯</item> <item>🦁</item> <item>🐮</item> <item>🐷</item> <item>🐸</item> <item>🐵</item> <item>🦉</item>
+        <item>🦇</item> <item>🐺</item> <item>🦄</item> <item>🐴</item> <item>🐗</item> <item>🐍</item> <item>🦖</item> <item>🦕</item>
+
+        <!-- 🚗 Transporte -->
+        <item>🚗</item> <item>🚕</item> <item>🚙</item> <item>🚌</item> <item>🚎</item> <item>🏎️</item> <item>🚓</item> <item>🚑</item>
+        <item>🚒</item> <item>🚐</item> <item>🚚</item> <item>🚛</item> <item>🚜</item> <item>🚲</item> <item>🛴</item> <item>🛵</item>
+        <item>🏍️</item> <item>🚂</item> <item>✈️</item> <item>🛩️</item> <item>🚁</item> <item>🚀</item> <item>🛸</item> <item>🚤</item>
+
+        <!-- 🌲 Naturaleza -->
+        <item>🌵</item> <item>🎄</item> <item>🌲</item> <item>🌳</item> <item>🌴</item> <item>🌿</item> <item>🍀</item> <item>🍁</item>
+        <item>🍂</item> <item>🍃</item> <item>🌷</item> <item>🌹</item> <item>🌺</item> <item>🌻</item> <item>🌼</item> <item>💐</item>
+        <item>🍄</item> <item>🌍</item> <item>🌎</item> <item>🌏</item> <item>🌕</item> <item>🌖</item> <item>🌗</item> <item>🌘</item>
+
+        <!-- 🎮 Entretenimiento -->
+        <item>🎮</item> <item>🕹️</item> <item>🎲</item> <item>♟️</item> <item>🎯</item> <item>🎰</item> <item>🃏</item> <item>🎭</item>
+        <item>🎨</item> <item>🎼</item> <item>🎤</item> <item>🎧</item> <item>📀</item> <item>💿</item> <item>📺</item> <item>📽️</item>
+
+        <!-- ⚽ Deportes -->
+        <item>⚽</item> <item>🏀</item> <item>🏈</item> <item>⚾</item> <item>🎾</item> <item>🏐</item> <item>🏉</item> <item>🥏</item>
+        <item>🎱</item> <item>🏓</item> <item>🏸</item> <item>🥊</item> <item>🥋</item> <item>🎽</item> <item>🛹</item> <item>⛷️</item>
+
+        <!-- 🍔 Comida -->
+        <item>🍏</item> <item>🍎</item> <item>🍐</item> <item>🍊</item> <item>🍋</item> <item>🍌</item> <item>🍉</item> <item>🍇</item>
+        <item>🍓</item> <item>🫐</item> <item>🍒</item> <item>🍍</item> <item>🥥</item> <item>🥝</item> <item>🍅</item> <item>🍆</item>
+        <item>🥑</item> <item>🥦</item> <item>🥕</item> <item>🌽</item> <item>🌶️</item> <item>🥒</item> <item>🥬</item> <item>🥔</item>
+        <item>🍞</item> <item>🥖</item> <item>🥐</item> <item>🥞</item> <item>🧀</item> <item>🍗</item> <item>🍖</item> <item>🍔</item>
+        <item>🍟</item> <item>🍕</item> <item>🌭</item> <item>🥪</item> <item>🌮</item> <item>🌯</item> <item>🥗</item> <item>🍲</item>
+        <item>🍿</item> <item>🥤</item> <item>☕</item> <item>🍺</item> <item>🍷</item> <item>🍸</item> <item>🍹</item> <item>🥂</item>
+
+        <!-- 💀 Cosas Interesantes -->
+        <item>👾</item> <item>💀</item> <item>👽</item> <item>👻</item> <item>🤖</item> <item>🦾</item> <item>🦿</item> <item>🔮</item>
+        <item>🧬</item> <item>⚗️</item> <item>🛰️</item> <item>🚨</item> <item>🎃</item> <item>🧲</item> <item>🎇</item> <item>🧨</item>
+
+        <!-- 😀 Caras y Expresiones -->
+        <item>😀</item> <item>😃</item> <item>😄</item> <item>😁</item> <item>😆</item> <item>😅</item> <item>😂</item> <item>🤣</item>
+        <item>😊</item> <item>😇</item> <item>🙂</item> <item>🙃</item> <item>😉</item> <item>😌</item> <item>😍</item> <item>🥰</item>
+        <item>😘</item> <item>😗</item> <item>😙</item> <item>😚</item> <item>😋</item> <item>😛</item> <item>😜</item> <item>🤪</item>
+        <item>😝</item> <item>🤑</item> <item>🤗</item> <item>🤭</item> <item>🤫</item> <item>🤔</item> <item>🤐</item> <item>🤨</item>
+        <item>😐</item> <item>😑</item> <item>😶</item> <item>😏</item> <item>😒</item> <item>🙄</item> <item>😬</item> <item>🤥</item>
+        <item>😌</item> <item>😔</item> <item>😪</item> <item>🤤</item> <item>😴</item> <item>😷</item> <item>🤒</item> <item>🤕</item>
+        <item>🤢</item> <item>🤮</item> <item>🤧</item> <item>😵</item> <item>🤯</item> <item>🤠</item> <item>🥳</item> <item>🥸</item>
+        <item>😎</item> <item>🤓</item> <item>🧐</item> <item>😕</item> <item>😟</item> <item>🙁</item> <item>☹️</item> <item>😮</item>
+        <item>😯</item> <item>😲</item> <item>😳</item> <item>🥺</item> <item>😦</item> <item>😧</item> <item>😨</item> <item>😰</item>
+        <item>😥</item> <item>😢</item> <item>😭</item> <item>😱</item> <item>😖</item> <item>😣</item> <item>😞</item> <item>😓</item>
+        <item>😩</item> <item>😫</item> <item>🥱</item> <item>😤</item> <item>😡</item> <item>😠</item> <item>🤬</item> <item>😈</item>
+        <item>👿</item> <item>💩</item> <item>🤡</item> <item>👻</item> <item>👽</item> <item>👾</item> <item>🤖</item> <item>🎃</item>
+    </string-array>
+</resources>
